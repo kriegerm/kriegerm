@@ -100,5 +100,4 @@ Many of my projects are in progress, and I am not able to make the code public u
 <br>
 <br>
 
-<b><i>Page last updated: </b></i>
-<p>Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
+<b><i>Page last updated: </b></i> 03 July 2025
