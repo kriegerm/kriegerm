@@ -88,7 +88,7 @@ Many of my projects are in progress, and I am not able to make the code public u
 ##  About Me <br>
 - 🐴 Horse girl
 - 🏃‍♀️ Runner
-- ☕️ Coffe enthusiast
+- ☕️ Coffee enthusiast
 - 📖 Reader
 - 🐾 Owner of the most perfect dog, Gary!
 
