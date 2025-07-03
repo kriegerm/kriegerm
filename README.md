@@ -1,15 +1,18 @@
 # Hi there 👋 I'm Maddie
 
 I'm a computational biologist studying host-microbe interactions in cancer. I love applying my background knowledge in experimental molecular biology to analze omics datasets and uncover new mechanisms that drive disease progression. I am also passionate about utilizing computational methods for discovering novel biomarkers for early disease detection. 
+<br>
 
 - 🔬 Computational postdoc at the Knight Cancer Instutite within OHSU 
 - 🧬 Interested in microbiome analysis, single-cell data, multi-omics, and data integration
 - 💻 R, Python, Linux, SLURM
 - 🌱 Open to industry career opportunities!
+<br>
 
 
 ## 🔗 Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/kriegermadeline/)
+<br>
 
 ## 📌 Featured Projects
 All the projects below are mostly complete projects, but some have ongoing components! 
@@ -46,12 +49,14 @@ All the projects below are mostly complete projects, but some have ongoing compo
    &nbsp;&nbsp;&nbsp;&nbsp;- Phyloseq  
    &nbsp;&nbsp;&nbsp;&nbsp;- Differential abundance  
    &nbsp;&nbsp;&nbsp;&nbsp;- Latent Dirichlet Allocation topic modeling
-   
+
+<br>
+
 ## Other skills
 Many of my projects are in progress, and I am not able to make the code public until a publication is released. I am happy to provide details of my experience in any of these areas upon request!
 
-**Machine Learning**
+**Machine Learning**<br>
 **<i>Project description</i> **- I created a <b> Random Forest Classifier </b> using <b> scikit-learn </b> to integrate microbiome and patient lifestyle/diet information in order to determine drivers for cancer risk.
 
-**Data cleaning & large data handling**
+**Data cleaning & large data handling**<br>
 **<i>Project description</i> **- I wrote an automated and reproducible pipeline to clean a dataset containing hundreds of clinical features and written survey answers for downstream use in machine learning applications.
