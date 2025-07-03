@@ -7,6 +7,7 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 - 🧬 Interested in microbiome analysis, single-cell data, multi-omics, and data integration
 - 💻 R, Python, Linux, SLURM
 - 🌱 Open to industry career opportunities!
+- 📖 Also exploring faculty positions. 
 <br>
 
 
