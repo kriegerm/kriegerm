@@ -51,7 +51,7 @@ All the projects below are mostly complete projects, but some have ongoing compo
 Many of my projects are in progress, and I am not able to make the code public until a publication is released. I am happy to provide details of my experience in any of these areas upon request!
 
 **Machine Learning**
-&nbsp;&nbsp;<i>Project description</i> - I created a <b> Random Forest Classifier </b> using <b> scikit-lear </b> to integrate microbiome and patient lifestyle/diet information in order to determine drivers for cancer risk.
+**<i>Project description</i> **- I created a <b> Random Forest Classifier </b> using <b> scikit-learn </b> to integrate microbiome and patient lifestyle/diet information in order to determine drivers for cancer risk.
 
 **Data cleaning & large data handling**
-&nbsp;&nbsp;<i>Project description</i> - I wrote an automated and reproducible pipeline to clean a dataset containing hundreds of clinical features and written survey answers for downstream use in machine learning applications.
+**<i>Project description</i> **- I wrote an automated and reproducible pipeline to clean a dataset containing hundreds of clinical features and written survey answers for downstream use in machine learning applications.
