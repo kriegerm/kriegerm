@@ -3,7 +3,8 @@
 I'm a computational biologist studying host-microbe interactions in cancer. I love applying my background knowledge in experimental molecular biology to analze omics datasets and uncover new mechanisms that drive disease progression. I am also passionate about utilizing computational methods for discovering novel biomarkers for early disease detection. 
 <br>
 
-- 🔬 Computational postdoc at the Knight Cancer Instutite within OHSU 
+- 🔬 Computational postdoc at the Knight Cancer Instutite within OHSU
+- 🥼 Experienced with all things NGS data analysis
 - 🧬 Interested in microbiome analysis, single-cell data, multi-omics, and data integration
 - 💻 R, Python, Linux, SLURM
 - 🌱 Open to industry career opportunities!
@@ -14,6 +15,8 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 
 ## 🔗 Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/kriegermadeline/)
+<b>Email:</b> madelineclaire12@gmail.com
+
 <br>
 <br>
 
@@ -22,11 +25,12 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 Here are some of the tools I regularly use for data analysis, visualization, and reproducible research: <br>
 - **Languages**: R, Python, Bash <br>
 - **Data Cleaning**: Tidyverse <br>
-- **Data Analysis**: DESeq2, phyloseq, Seurat <br>
+- **Transcriptomics**: Trimmoatic, DESeq2, Seurat, scRepertoire <br>
+- **Microbial Analysis**: Qiime2/DADA2, Phyloseq, Anvi'o <br>
 - **Visualization**: ggplot2, Shiny, seaborn, matplotlib <br>
 - **Workflows**: Snakemake, R Markdown <br>
 - **Environment & Version Control**: Git, GitHub, Conda, SLURM <br>
-- **Machine Learning**: LDA topic modeling, scikit-learn <br>
+- **Machine Learning**: LDA topic modeling, scikit-learn, keras <br>
 
 <br>
 <br>
@@ -62,13 +66,12 @@ All the projects below are mostly complete, but some have ongoing components! �
    **Status**: Complete ✅ <br>
    **Techniques**: Bulk RNA-seq  <br>
    **Highlighted Tools**:  <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;- DESeq2  
+   &nbsp;&nbsp;&nbsp;&nbsp;- DESeq2   
    &nbsp;&nbsp;&nbsp;&nbsp;- GSEA  
-   &nbsp;&nbsp;&nbsp;&nbsp;- R markdown  
-   &nbsp;&nbsp;&nbsp;&nbsp;- ggplot2  <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;- R markdown   
+   &nbsp;&nbsp;&nbsp;&nbsp;- ggplot2  
 
-
-
+<br>
 <br>
 
 ## Other skills
