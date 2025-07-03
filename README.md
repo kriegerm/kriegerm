@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Maddie
 
-I'm a computational biologist studying host-microbe interactions in cancer. I love applying my background knowledge in experimental molecular biology to analze omics datasets and uncover new mechanisms that drive disease progression. I am also passionate about utilizing computational methods for discovering novel biomarkers for early disease detection. 
+I'm a computational biologist studying host-microbe interactions in cancer. I love applying my background knowledge in experimental molecular biology to analze omics datasets and uncover new mechanisms that drive disease progression. I am also passionate about utilizing computational methods to discover novel biomarkers for early disease detection. 
 <br>
 
 - 🔬 Computational postdoc at the Knight Cancer Instutite within OHSU
