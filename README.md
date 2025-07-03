@@ -5,12 +5,14 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 
 - 🔬 Computational postdoc at the Knight Cancer Instutite within OHSU
 - 🥼 Experienced with all things NGS data analysis
-- 🧬 Interested in microbiome analysis, single-cell data, multi-omics, and data integration
+- 🧬 Interested in microbiome analysis, transcriptomics, single-cell data, multi-omics, and data integration
 - 💻 R, Python, Linux, SLURM
 - 🌱 Open to industry career opportunities!
-- 📖 Also exploring faculty positions. 
-<br>
+- 📖 Also exploring faculty positions
+- 🧑🏻‍🔬 Vice President of (Women in Science PDX)[https://www.womeninsciencepdx.org/]
 
+<br>
+<br>
 
 
 ## 🔗 Connect with me: 
