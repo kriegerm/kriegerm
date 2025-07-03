@@ -16,8 +16,7 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 
 
 ## 🔗 Connect with me: 
-[LinkedIn](https://www.linkedin.com/in/kriegermadeline/)<br>
-<b>Email:</b> madelineclaire12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kriegermadeline/)  |   <b>Email:</b> madelineclaire12@gmail.com
 
 <br>
 <br>
