@@ -15,13 +15,13 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 All the projects below are mostly complete projects, but some have ongoing components! 
 
 1. [Identifying rare tumor-specific T-cell subtypes in circulating peripheral blood](https://github.com/kriegerm/RD_CRC_snakemake)
-   Status: Ongoing
-   Techniques: scRNA-seq, TCR-seq
-   Highligted Tools:
-     -Snakemake
-     -Seurat
-     -R markdown
-     -Multi omic integration
+   **Status**: Ongoing  
+   **Techniques**: scRNA-seq, TCR-seq  
+   **Highlighted Tools**:  
+   &nbsp;&nbsp;&nbsp;&nbsp;- Snakemake  
+   &nbsp;&nbsp;&nbsp;&nbsp;- Seurat  
+   &nbsp;&nbsp;&nbsp;&nbsp;- R markdown  
+   &nbsp;&nbsp;&nbsp;&nbsp;- Multi-omic integration  
 
 3. [Microbiome browser: A shiny app to view and explore microbiome data](http://github.com/kriegerm/Microbiome_browser)
    Status: Complete
