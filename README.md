@@ -17,7 +17,19 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 <br>
 <br>
 
+## 🛠 Favorite Tools <br>
 
+Here are some of the tools I regularly use for data analysis, visualization, and reproducible research: <br>
+- **Languages**: R, Python, Bash <br>
+- **Data Cleaning**: Tidyverse <br>
+- **Data Analysis**: DESeq2, phyloseq, Seurat <br>
+- **Visualization**: ggplot2, Shiny, seaborn, matplotlib <br>
+- **Workflows**: Snakemake, R Markdown <br>
+- **Environment & Version Control**: Git, GitHub, Conda, SLURM <br>
+- **Machine Learning**: LDA topic modeling, scikit-learn <br>
+
+<br>
+<br>
 
 ## 📌 Featured Projects
 All the projects below are mostly complete, but some have ongoing components! 🛠️ Please be patient if some scripts are messy during ongoing construction. <br>
@@ -63,7 +75,10 @@ All the projects below are mostly complete, but some have ongoing components! �
 Many of my projects are in progress, and I am not able to make the code public until a publication is released. I am happy to provide details of my experience in any of these areas upon request!
 
 **Machine Learning**<br>
-<i>Project description</i> - I created a <b> Random Forest Classifier </b> using <b> scikit-learn </b> to integrate microbiome and patient lifestyle/diet information in order to determine drivers for cancer risk.
+<i>Project description</i> - I created a <b> Random Forest Classifier </b> using <b> scikit-learn </b> to integrate microbiome and patient lifestyle/diet information in order to determine drivers for cancer risk. Publication coming Fall 2025!
 
 **Data cleaning & large data handling**<br>
-<i>Project description</i> - I wrote an automated and reproducible pipeline to clean a dataset containing hundreds of clinical features and written survey answers for downstream use in machine learning applications.
+<i>Project description</i> - I wrote an automated and reproducible pipeline to clean a dataset containing hundreds of clinical features and written survey answers for downstream use in machine learning applications. Publication coming Fall 2025!
+
+**Creating a novel pangenome for transcriptomic analysis**<br>
+<i>Project description</i> - In order to directly compare transcriptomics data from two related bacterial strains, I first created a pangenome of overlapping genes using [Anvi'o](https://anvio.org/). Then, I used that pangenome to map RNA-seq reads from each bacteria in order to generate differential gene expression data for only shared features. Publication coming Winter 2025!
