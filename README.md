@@ -9,7 +9,7 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 - 💻 R, Python, Linux, SLURM
 - 🌱 Open to industry career opportunities!
 - 📖 Also exploring faculty positions
-- 🧑🏻‍🔬 Vice President of (Women in Science PDX)[https://www.womeninsciencepdx.org/]
+- 🧑🏻‍🔬 Vice President of [Women in Science PDX](https://www.womeninsciencepdx.org/)
 
 <br>
 <br>
