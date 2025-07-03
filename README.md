@@ -12,13 +12,11 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 - 🧑🏻‍🔬 Vice President of [Women in Science PDX](https://www.womeninsciencepdx.org/)
 
 <br>
-<br>
 
 
 ## 🔗 Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/kriegermadeline/)  |   <b>Email:</b> madelineclaire12@gmail.com
 
-<br>
 <br>
 
 ## 🛠 Favorite Tools <br>
@@ -34,10 +32,9 @@ Here are some of the tools I regularly use for data analysis, visualization, and
 - **Machine Learning**: LDA topic modeling, scikit-learn, keras <br>
 
 <br>
-<br>
 
 ## 📌 Featured Projects
-All the projects below are mostly complete, but some have ongoing components! 🛠️ Please be patient if some scripts are messy during ongoing construction. <br>
+All the projects below are mostly complete, but some have ongoing components! 🛠️ Please be patient if some scripts are undergoing construction. <br>
 
 1. [Identifying rare tumor-specific T-cell subtypes in circulating peripheral blood](https://github.com/kriegerm/RD_CRC_snakemake)<br>
    **Status**: Ongoing 👷🏻‍♀️ <br>
@@ -73,7 +70,6 @@ All the projects below are mostly complete, but some have ongoing components! �
    &nbsp;&nbsp;&nbsp;&nbsp;- ggplot2  
 
 <br>
-<br>
 
 ## ⭐️ Other Projects
 Many of my projects are in progress, and I am not able to make the code public until a publication is released. I am happy to provide details of my experience in any of these areas upon request!
@@ -87,7 +83,6 @@ Many of my projects are in progress, and I am not able to make the code public u
 **Creating a novel pangenome for transcriptomic analysis**<br>
 <i>Project description</i> - In order to directly compare transcriptomics data from two related bacterial strains, I first created a pangenome of overlapping genes using [Anvi'o](https://anvio.org/). Then, I used that pangenome to map RNA-seq reads from each bacteria in order to generate differential gene expression data for only shared features. Publication coming Winter 2025!
 
-<br>
 <br>
 
 ##  About Me <br>
