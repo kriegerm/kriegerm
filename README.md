@@ -75,7 +75,7 @@ All the projects below are mostly complete, but some have ongoing components! �
 <br>
 <br>
 
-## Other skills
+## ⭐️ Other Projects
 Many of my projects are in progress, and I am not able to make the code public until a publication is released. I am happy to provide details of my experience in any of these areas upon request!
 
 **Machine Learning**<br>
@@ -86,3 +86,19 @@ Many of my projects are in progress, and I am not able to make the code public u
 
 **Creating a novel pangenome for transcriptomic analysis**<br>
 <i>Project description</i> - In order to directly compare transcriptomics data from two related bacterial strains, I first created a pangenome of overlapping genes using [Anvi'o](https://anvio.org/). Then, I used that pangenome to map RNA-seq reads from each bacteria in order to generate differential gene expression data for only shared features. Publication coming Winter 2025!
+
+<br>
+<br>
+
+##  About Me <br>
+- 🐴 Horse girl
+- 🏃‍♀️ Runner
+- ☕️ Coffe enthusiast
+- 📖 Reader
+- 🐾 Owner of the most perfect dog, Gary!
+
+<br>
+<br>
+
+<b><i>Page last updated: </b></i>
+<p>Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
