@@ -71,7 +71,7 @@ All the projects below are mostly complete, but some have ongoing components! �
 
 <br>
 
-## ⭐️ Other Projects
+## ⭐️ Unpublished Projects
 Many of my projects are in progress, and I am not able to make the code public until a publication is released. I am happy to provide details of my experience in any of these areas upon request!
 
 **Machine Learning**<br>
