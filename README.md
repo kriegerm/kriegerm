@@ -30,7 +30,7 @@ All the projects below are mostly complete projects, but some have ongoing compo
    &nbsp;&nbsp;&nbsp;&nbsp;- R markdown  
    &nbsp;&nbsp;&nbsp;&nbsp;- Multi-omic integration  <br>
 
-2. [A novel application of topic modeling to uncover polymicrobial drivers of oral disease in patient-matched samples]()  <br>
+2. [A novel application of topic modeling to uncover polymicrobial drivers of oral disease in patient-matched samples](https://github.com/kriegerm/PA_cohort_analysis)  <br>
    **Status**: Ongoing, mostly complete <br>
    **Techniques**: Microbiome analysis, Differential abundance analysis, Topic modeling  <br>
    **Highlighted Tools**:  <br>
