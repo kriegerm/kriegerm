@@ -19,10 +19,10 @@ I'm a computational biologist studying host-microbe interactions in cancer. I lo
 
 
 ## 📌 Featured Projects
-All the projects below are mostly complete projects, but some have ongoing components! <br>
+All the projects below are mostly complete, but some have ongoing components! 🛠️ Please be patient if some scripts are messy during ongoing construction. <br>
 
 1. [Identifying rare tumor-specific T-cell subtypes in circulating peripheral blood](https://github.com/kriegerm/RD_CRC_snakemake)<br>
-   **Status**: Ongoing  <br>
+   **Status**: Ongoing 👷🏻‍♀️ <br>
    **Techniques**: scRNA-seq, TCR-seq  <br>
    **Highlighted Tools**:  <br>
    &nbsp;&nbsp;&nbsp;&nbsp;- Snakemake  
@@ -31,7 +31,7 @@ All the projects below are mostly complete projects, but some have ongoing compo
    &nbsp;&nbsp;&nbsp;&nbsp;- Multi-omic integration  <br>
 
 2. [A novel application of topic modeling to uncover polymicrobial drivers of oral disease in patient-matched samples](https://github.com/kriegerm/PA_cohort_analysis)  <br>
-   **Status**: Ongoing, mostly complete <br>
+   **Status**: Ongoing 👷🏻‍♀️, mostly complete <br>
    **Techniques**: Microbiome analysis, Differential abundance analysis, Topic modeling  <br>
    **Highlighted Tools**:  <br>
    &nbsp;&nbsp;&nbsp;&nbsp;- Phyloseq  
