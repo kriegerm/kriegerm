@@ -31,14 +31,14 @@ All the projects below are mostly complete projects, but some have ongoing compo
    &nbsp;&nbsp;&nbsp;&nbsp;- Multi-omic integration  
 
 3. [Microbiome browser: A shiny app to view and explore microbiome data](http://github.com/kriegerm/Microbiome_browser)  
-   **Status**: Complete  
+   **Status**: Complete ✅ 
    **Techniques**: Microbiome analysis  
    **Highlighted Tools**:  
    &nbsp;&nbsp;&nbsp;&nbsp;- Phyloseq  
    &nbsp;&nbsp;&nbsp;&nbsp;- R Shiny  
 
 4. [Identifying differential transcriptomic response to subspecies of *Fusobacterium nucleatum* in oral squamous cell carcinoma](https://github.com/kriegerm/Fuso_subsp_OSCC_prelim)  
-   **Status**: Complete  
+   **Status**: Complete ✅ 
    **Techniques**: Bulk RNA-seq  
    **Highlighted Tools**:  
    &nbsp;&nbsp;&nbsp;&nbsp;- DESeq2  
@@ -47,7 +47,7 @@ All the projects below are mostly complete projects, but some have ongoing compo
    &nbsp;&nbsp;&nbsp;&nbsp;- ggplot2  
 
 5. [A novel application of topic modeling to uncover polymicrobial drivers of oral disease in patient-matched samples]()  
-   **Status**: Ongoing, mostly complete  
+   **Status**: Ongoing, mostly complete 
    **Techniques**: Microbiome analysis, Differential abundance analysis, Topic modeling  
    **Highlighted Tools**:  
    &nbsp;&nbsp;&nbsp;&nbsp;- Phyloseq  
