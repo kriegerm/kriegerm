@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Maddie
 
-I'm a computational biologist studying host-microbe interactions in cancer. I love applying knowledge I've gained through a background in experimental molecular biology to analze omics datasets and uncover new mechanisms that drive disease progression. I am also passionate about utilizing computational methods to discover novel biomarkers for early disease detection. 
+I'm a computational biologist studying host-microbe interactions. I utilize my deep understanding of the human microbiome to help design and validate smarter products to support human health. I also love applying knowledge I've gained through a background in experimental molecular biology to analze omics datasets and uncover new mechanisms that drive disease progression. 
 <br>
 
-- 🔬 Computational postdoc at the Knight Cancer Instutite within OHSU
+I hold a Ph.D. in molecular microbiology, where I studied RNA regulation in prokaryotic pathogens. I completed my first postdoc in 2021 in the Merritt lab at the OHSU School of Dentistry, where I studied polymicrobial interactions in oral disease. I then finished a second postdoc at the Knight Cancer Institute within OHSU, where I worked as a Computational Biologist to integrate multi-omic datasets to better understand early drivers of cancer intituation and progression.
+
+- 🔬 Scientist and Program Manager at the early-stage startup Kapha Bio
+- 🌱 Bioinformatics Consultant at Seed
 - 🥼 Experienced with all things NGS data analysis
 - 🧬 Interested in microbiome analysis, transcriptomics, single-cell data, multi-omics, and data integration
-- 💻 R, Python, Linux, SLURM
-- 🌱 Open to industry career opportunities!
-- 📖 Also exploring faculty positions
-- 🤝 Vice President of [Women in Science PDX](https://www.womeninsciencepdx.org/)
+- 💻 R, Python, Linux
 
 <br>
 
@@ -36,22 +36,22 @@ Here are some of the tools I regularly use for data analysis, visualization, and
 ## 📌 Featured Projects
 All the projects below are mostly complete, but some have ongoing components! 🛠️ Please be patient if some scripts are undergoing construction. <br>
 
-1. [Identifying rare tumor-specific T-cell subtypes in circulating peripheral blood](https://github.com/kriegerm/RD_CRC_snakemake)<br>
-   **Status**: Ongoing 👷🏻‍♀️ <br>
+1. [A novel application of topic modeling to uncover polymicrobial drivers of oral disease in patient-matched samples](https://github.com/kriegerm/PA_cohort_analysis)  <br>
+   **Status**: Complete ✅ Manuscript in preparation <br>
+   **Techniques**: Microbiome analysis, Differential abundance analysis, Topic modeling  <br>
+   **Highlighted Tools**:  <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;- Phyloseq  
+   &nbsp;&nbsp;&nbsp;&nbsp;- Differential abundance  
+   &nbsp;&nbsp;&nbsp;&nbsp;- Latent Dirichlet Allocation topic modeling
+
+2. [Identifying rare tumor-specific T-cell subtypes in circulating peripheral blood](https://github.com/kriegerm/RD_CRC_snakemake)<br>
+   **Status**: Ongoing 👷🏻‍♀️ - this project was passed off to another computationalist to finish, but these scripts highlight my use of stiching together Rmarkdown files with a snakemake workflow to provide a flexible framework for analzying large, multi-modal datasets. <br>
    **Techniques**: scRNA-seq, TCR-seq  <br>
    **Highlighted Tools**:  <br>
    &nbsp;&nbsp;&nbsp;&nbsp;- Snakemake  
    &nbsp;&nbsp;&nbsp;&nbsp;- Seurat  
    &nbsp;&nbsp;&nbsp;&nbsp;- R markdown  
    &nbsp;&nbsp;&nbsp;&nbsp;- Multi-omic integration  <br>
-
-2. [A novel application of topic modeling to uncover polymicrobial drivers of oral disease in patient-matched samples](https://github.com/kriegerm/PA_cohort_analysis)  <br>
-   **Status**: Ongoing 👷🏻‍♀️, mostly complete <br>
-   **Techniques**: Microbiome analysis, Differential abundance analysis, Topic modeling  <br>
-   **Highlighted Tools**:  <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;- Phyloseq  
-   &nbsp;&nbsp;&nbsp;&nbsp;- Differential abundance  
-   &nbsp;&nbsp;&nbsp;&nbsp;- Latent Dirichlet Allocation topic modeling
 
 3. [Microbiome browser: A shiny app to view and explore microbiome data](http://github.com/kriegerm/Microbiome_browser)  <br>
    **Status**: Complete ✅ <br>
@@ -78,10 +78,10 @@ Many of my projects are in progress, and I am not able to make the code public u
 <i>Project description</i> - I created a <b> Random Forest Classifier </b> using <b> scikit-learn </b> to integrate microbiome and patient lifestyle/diet information in order to determine drivers for cancer risk. <i>Publication coming Fall 2025!</i>
 
 **Data cleaning & large data handling**<br>
-<i>Project description</i> - I wrote an automated and reproducible pipeline to clean a dataset containing hundreds of clinical features and written survey answers for downstream use in machine learning applications. <i>Publication coming Fall </i>2025!
+<i>Project description</i> - I wrote an automated and reproducible pipeline to clean a dataset containing hundreds of clinical features and written survey answers for downstream use in machine learning applications. <i>Publication coming Spring </i>2026!
 
 **Creating a novel pangenome for transcriptomic analysis**<br>
-<i>Project description</i> - In order to directly compare transcriptomics data from two related bacterial strains, I first created a pangenome of overlapping genes using [Anvi'o](https://anvio.org/). Then, I used that pangenome to map RNA-seq reads from each bacteria in order to generate differential gene expression data for only shared features. <i>Publication coming Winter 2025!</i>
+<i>Project description</i> - In order to directly compare transcriptomics data from two related bacterial strains, I first created a pangenome of overlapping genes using [Anvi'o](https://anvio.org/). Then, I used that pangenome to map RNA-seq reads from each bacteria in order to generate differential gene expression data for only shared features. <i>Publication coming Spring 2026!</i>
 
 <br>
 
