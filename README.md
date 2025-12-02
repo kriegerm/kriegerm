@@ -3,10 +3,10 @@
 I'm a computational biologist studying host-microbe interactions. I utilize my deep understanding of the human microbiome to help design and validate smarter products to support human health. I also love applying knowledge I've gained through a background in experimental molecular biology to analze omics datasets and uncover new mechanisms that drive disease progression. 
 <br>
 
-I hold a Ph.D. in molecular microbiology, where I studied RNA regulation in prokaryotic pathogens. I completed my first postdoc in 2021 in the Merritt lab at the OHSU School of Dentistry, where I studied polymicrobial interactions in oral disease. I then finished a second postdoc at the Knight Cancer Institute within OHSU, where I worked as a Computational Biologist to integrate multi-omic datasets to better understand early drivers of cancer intituation and progression.
+I hold a Ph.D. in molecular microbiology, where I studied RNA regulation in prokaryotic pathogens. I completed my first postdoc in 2021 in the Merritt lab at the OHSU School of Dentistry studying polymicrobial interactions in oral disease. I then finished a second postdoc at the Knight Cancer Institute within OHSU, where I worked as a Computational Biologist to integrate multi-omic datasets to better understand early drivers of cancer intituation and progression.
 
 - 🔬 Scientist and Program Manager at the early-stage startup Kapha Bio
-- 🌱 Bioinformatics Consultant at Seed
+- 🌱 Bioinformatics Consultant at Seed & OHSU
 - 🥼 Experienced with all things NGS data analysis
 - 🧬 Interested in microbiome analysis, transcriptomics, single-cell data, multi-omics, and data integration
 - 💻 R, Python, Linux
